@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+      "target": "ES6",                          // Целевая версия JavaScript (ES5, ES6, ES2020 и т.д.)
+      "module": "CommonJS",                     // Система модулей (CommonJS, ES
+    }
+} 
